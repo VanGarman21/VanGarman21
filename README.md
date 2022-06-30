@@ -16,6 +16,9 @@ Hi there , I'm Van Garman👋
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+<h2 align="center">
+<img src="https://komarev.com/ghpvc/?username=VanGarman21&style=flat-square&color=blue" alt=""/ >
+</h2>
 <!--
 **VanGarman21/VanGarman21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
