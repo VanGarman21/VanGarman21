@@ -24,7 +24,6 @@ Hi there , I'm Van Garman👋
 ---
 
 ### :woman_technologist: About Me :
-I'm a Undergraduate Student of the Sepuluh Nopember Institute of Technology Undergraduate Student 
 
 ---
 
